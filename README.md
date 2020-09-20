@@ -1,2 +1,2 @@
-# C21-Improved-Project-Algo
-Passing arguments in a function!
+# p5.play-boilerplate
+Boiler plate for p5.play
